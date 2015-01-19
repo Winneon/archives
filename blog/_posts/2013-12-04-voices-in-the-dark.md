@@ -1,0 +1,6 @@
+---
+layout: post_page
+title: Voices in the Dark
+---
+
+In the dark, in a room, alone and sound, is probably one of the most insecure feelings you can get. Nothing can stop those horrible feelings of just how unprotected you are, of how little you know or understand about the environment you are in, the dark room, alone. Then of course, there are the voices. I do not know if others hear them, but they are very small and quaint, speaking unfathomable languages and tones. Most of the time, in the dark, it feels like people, or things for that matter, standing next to you, staring at you with eyes unthinkable, whispering you the fates and the untold. One by one, more voices appear, slowly, but surely. For someone who loves to be alone, that is, the person that is writing this, it can drive one insane, once you start imagining the horrific faces those voices are acquainted with. They stand around you, with beading eyes, big and black, in the dark, with no protection for yourself. The number of voices can reach unthinkable numbers. So, you walk, and realize in your small and uncomfortable insanity, it is only until you turn on the light, that the voices become all the more real to you.

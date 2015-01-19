@@ -1,0 +1,9 @@
+{
+	"mysql": {
+		"user": "localhost",
+		"passwd": "hunter2",
+		"database": "baseofdatas"
+	},
+	"socketio": "http://localhost:8080",
+	"key": "<YOUR_KEY_HERE>"
+}

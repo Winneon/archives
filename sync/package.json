@@ -1,0 +1,13 @@
+{
+  "name": "Sync",
+  "version": "1.0.0",
+  "description": "A video service syncing videos across connected users.",
+  "dependencies": {
+    "MD5": "~1.2.1",
+    "express": "~4.4.5",
+    "mysql": "~2.3.2",
+    "sha1": "~1.1.0",
+    "socket.io": "~1.0.6",
+    "config": "~0.4.36"
+  }
+}

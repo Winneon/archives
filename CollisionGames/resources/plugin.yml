@@ -1,0 +1,8 @@
+name: WCCG
+version: 1.0
+main: net.winneonsword.CG.CG
+
+commands:
+    cg:
+        description: The main command.
+        usage: 'Usage: /cg help - The main help menu.'

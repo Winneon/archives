@@ -1,0 +1,4 @@
+name: Collision
+main: net.winneonsword.Collision.Collision
+version: 1.0
+depend: [WCAPI]
